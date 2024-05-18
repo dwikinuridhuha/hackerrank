@@ -1,3 +1,6 @@
+## Link
+https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true
+
 ## Deskripsi Soal
 Ada dua kanguru yang berada di garis satu dimensi. Kanguru pertama memulai dari posisi \( x_1 \) dengan kecepatan lompatan \( v_1 \) meter per lompatan. Kanguru kedua memulai dari posisi \( x_2 \) dengan kecepatan lompatan \( v_2 \) meter per lompatan. Anda harus menentukan apakah kedua kanguru akan berada di posisi yang sama pada saat yang sama, dan jika ya, kapan.
 
