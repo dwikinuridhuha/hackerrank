@@ -1,4 +1,5 @@
 ## Deskripsi soal
+
 Untuk menyelesaikan "Even or Odd" (Genap atau Ganjil) pada Codewars menggunakan TypeScript, Anda perlu menulis fungsi yang menentukan apakah suatu angka adalah genap atau ganjil. Berikut adalah solusi contohnya:
 
 ```typescript
@@ -9,7 +10,7 @@ function even_or_odd(n: number): string {
 
 ```dart
 String evenOrOdd(int: number) {
-  if(number % 2) {
+  if(number % 2 == 0) {
     return "Even";
   } else {
     return "Odd";
