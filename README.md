@@ -1,4 +1,4 @@
-# between-two-sets
+# HackerRank
 
 To install dependencies:
 
